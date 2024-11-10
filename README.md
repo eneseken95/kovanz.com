@@ -1,2 +1,2 @@
 # kovanzcom
-https://eneseken95.github.io/kovanzcom
+https://eneseken95.github.io/kovanzcom/
