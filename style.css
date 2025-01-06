@@ -1,8 +1,8 @@
-.ozellik
+.feature
 {
     margin-top: -40px;
 }
-#yuvarlak
+#round
 {
     border-radius: 50%;
     border: 0.3rem solid #fff;
@@ -12,7 +12,7 @@
     font-family: 'Kalam', cursive;
     font-weight: 600; 
 }
-#fontbaslik
+#font-title
 {
     font-family: 'Kalam', cursive;
     font-size: 25px;
@@ -50,7 +50,7 @@ header
         font-size: 18px;
     }
 }
-.iconbaglanti
+.icon-link
 {
     text-align: center;
     color: grey;
@@ -82,14 +82,11 @@ header
         opacity: 0;
     }
 }
-
-
  a 
 {
      text-decoration: none;
      color: white;
 }
-
 .buttonStyle
 {
     color: white;
@@ -104,5 +101,4 @@ header
     width: 100%;         
     max-width: 250px;     
     min-width: 200px;     
-  
 }
