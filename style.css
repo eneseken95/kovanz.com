@@ -50,8 +50,12 @@ header
         font-size: 18px;
     }
 }
-.icon-link
+.icon-link 
 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     color: grey;
     margin-top: -25px;
